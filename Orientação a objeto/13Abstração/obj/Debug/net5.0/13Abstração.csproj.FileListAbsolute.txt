@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.exe
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.deps.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\ref\13Abstração.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\bin\Debug\net5.0\13Abstração.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\ref\13Abstração.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\13Abstração\obj\Debug\net5.0\13Abstração.genruntimeconfig.cache

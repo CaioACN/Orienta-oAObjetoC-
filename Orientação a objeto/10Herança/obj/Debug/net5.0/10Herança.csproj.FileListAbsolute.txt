@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.exe
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.deps.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\ref\10Herança.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\bin\Debug\net5.0\10Herança.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\ref\10Herança.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\10Herança\obj\Debug\net5.0\10Herança.genruntimeconfig.cache

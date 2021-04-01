@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.exe
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.deps.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\ref\08GetSet.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\bin\Debug\net5.0\08GetSet.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\ref\08GetSet.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\08GetSet\obj\Debug\net5.0\08GetSet.genruntimeconfig.cache

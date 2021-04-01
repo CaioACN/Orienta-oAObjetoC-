@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.exe
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.deps.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.runtimeconfig.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\ref\09This.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\bin\Debug\net5.0\09This.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\ref\09This.dll
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.pdb
+C:\Users\Lucas\Desktop\3°Bimestre\Programação para web\Orientação a objeto\09This\obj\Debug\net5.0\09This.genruntimeconfig.cache
